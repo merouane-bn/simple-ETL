@@ -1,0 +1,31 @@
+car_model,year_of_manufacture,price,fuel,car_age
+Alfa Romeo Giulia,2019,43000.75,Gasoline,5
+Fiat 500,2018,17000.5,Gasoline,6
+Renault Zoe,2021,25000.99,Electric,3
+Peugeot 208,2022,22000.65,Gasoline,2
+Ford Explorer,2020,37000.45,Gasoline,4
+Dodge Charger,2019,31000.8,Gasoline,5
+Toyota Highlander,2021,42000.95,Hybrid,3
+Mazda MX-5 Miata,2022,28000.25,Gasoline,2
+Volvo XC90,2020,54000.15,Hybrid,4
+Subaru Crosstrek,2021,26000.7,Gasoline,3
+Volkswagen Tiguan,2018,23000.89,Gasoline,6
+Jeep Cherokee,2019,29000.55,Gasoline,5
+Mini Cooper,2020,27000.4,Gasoline,4
+Hyundai Ioniq,2022,27000.95,Electric,2
+Kia Niro,2021,30000.75,Hybrid,3
+BMW X5,2020,60000.99,Gasoline,4
+Mercedes-Benz GLE,2019,65000.85,Gasoline,5
+Audi Q5,2022,53000.45,Gasoline,2
+Lexus RX,2020,58000.9,Hybrid,4
+Honda CR-V,2018,25000.65,Gasoline,6
+Toyota Camry,2020,24000.0,Gasoline,4
+Honda Accord,2019,22000.0,Gasoline,5
+Ford F-150,2021,30000.0,Gasoline,3
+Chevrolet Bolt EV,2022,35000.0,Electric,2
+Nissan Leaf,2020,32000.0,Electric,4
+Hyundai Sonata,2018,18000.0,Gasoline,6
+BMW 3 Series,2021,40000.0,Gasoline,3
+Tesla Model 3,2022,45000.0,Electric,2
+Volkswagen Jetta,2019,19000.0,Gasoline,5
+Kia Soul,2020,21000.0,Gasoline,4

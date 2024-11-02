@@ -1,0 +1,21 @@
+car_model,year_of_manufacture,price,fuel
+Alfa Romeo Giulia,2019,43000.75,Gasoline
+Fiat 500,2018,17000.50,Gasoline
+Renault Zoe,2021,25000.99,Electric
+Peugeot 208,2022,22000.65,Gasoline
+Ford Explorer,2020,37000.45,Gasoline
+Dodge Charger,2019,31000.80,Gasoline
+Toyota Highlander,2021,42000.95,Hybrid
+Mazda MX-5 Miata,2022,28000.25,Gasoline
+Volvo XC90,2020,54000.15,Hybrid
+Subaru Crosstrek,2021,26000.70,Gasoline
+Volkswagen Tiguan,2018,23000.89,Gasoline
+Jeep Cherokee,2019,29000.55,Gasoline
+Mini Cooper,2020,27000.40,Gasoline
+Hyundai Ioniq,2022,27000.95,Electric
+Kia Niro,2021,30000.75,Hybrid
+BMW X5,2020,60000.99,Gasoline
+Mercedes-Benz GLE,2019,65000.85,Gasoline
+Audi Q5,2022,53000.45,Gasoline
+Lexus RX,2020,58000.90,Hybrid
+Honda CR-V,2018,25000.65,Gasoline

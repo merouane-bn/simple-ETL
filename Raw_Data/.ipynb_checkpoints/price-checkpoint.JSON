@@ -1,0 +1,62 @@
+[
+    {
+        "car_model": "Toyota Camry",
+        "year_of_manufacture": 2020,
+        "price": 24000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "Honda Accord",
+        "year_of_manufacture": 2019,
+        "price": 22000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "Ford F-150",
+        "year_of_manufacture": 2021,
+        "price": 30000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "Chevrolet Bolt EV",
+        "year_of_manufacture": 2022,
+        "price": 35000,
+        "fuel": "Electric"
+    },
+    {
+        "car_model": "Nissan Leaf",
+        "year_of_manufacture": 2020,
+        "price": 32000,
+        "fuel": "Electric"
+    },
+    {
+        "car_model": "Hyundai Sonata",
+        "year_of_manufacture": 2018,
+        "price": 18000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "BMW 3 Series",
+        "year_of_manufacture": 2021,
+        "price": 40000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "Tesla Model 3",
+        "year_of_manufacture": 2022,
+        "price": 45000,
+        "fuel": "Electric"
+    },
+    {
+        "car_model": "Volkswagen Jetta",
+        "year_of_manufacture": 2019,
+        "price": 19000,
+        "fuel": "Gasoline"
+    },
+    {
+        "car_model": "Kia Soul",
+        "year_of_manufacture": 2020,
+        "price": 21000,
+        "fuel": "Gasoline"
+    }
+]
